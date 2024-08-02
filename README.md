@@ -11,10 +11,3 @@ Knowledge is power.
 
 ## 📕 Learning
 ![Learning](https://skillicons.dev/icons?i=cpp,nodejs&theme=light)
-
-## Credits:
-* [Axype](https://github.com/Axpye/)
-* [Skillicons](https://skillicons.dev)
-
-
-<a href="https://google.com" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
