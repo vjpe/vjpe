@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vjpe
 - 👀 I’m interested in Programming
-- 📫 Discord: [vjpe.py](https://discord.com/users/1214661946100551711)
+- 📫 Discord: [venue.py](https://discord.com/users/1214661946100551711)
 
 ```json
 Knowledge is power.
